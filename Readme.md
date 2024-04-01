@@ -7,37 +7,28 @@
 🏆 Developer of **PokeBest Bot** having more Than **30000+** Users and more than **10000000+** commands used
 
 ## 🛠️ Skills
-### Languages
-![python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
-![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
-![c](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C)
-![postgresql](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=Postgresql)
 ### Softwares
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
-## 📈 Stats
 
-<div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=avy9999&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
-<br />
-<br />
-</div>
-<p align="left">
-    <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=avy9999&theme=tokyonight"/>
-    </a>
-</p>
-<p align="left"> 
-<a href="https://github.com/avy9999">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avy9999&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### 💻 Launguages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="left">
-<img height="40em" src="https://komarev.com/ghpvc/?username=avy9999&color=brightgreen" alt="watching_count">
-</p>
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=avy9999&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=avy9999&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avy9999&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=avy9999&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🔗 Contact
