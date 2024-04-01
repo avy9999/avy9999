@@ -7,7 +7,7 @@
 🏆 Developer of **PokeBest Bot** having more Than **30000+** Users and more than **10000000+** commands used
 
 ## 🛠️ Skills
----
+
 ### Softwares
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
@@ -31,9 +31,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avy9999&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=avy9999&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p align="left">
+<img height="40em" src="https://komarev.com/ghpvc/?username=avy9999&color=brightgreen" alt="watching_count">
+</p>
+---
 ## 🔗 Contact
 
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/791910343718338590)
