@@ -26,9 +26,9 @@
 
 ---
 ### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=avy9999&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avy9999&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avy9999&theme=radical&hide_border=true&layout=compact)
+![](https://vercel-app-two-phi.vercel.app/api?username=avy9999&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=avy9999&theme=github_dark&hide_border=true)<br/>
+![](https://vercel-app-two-phi.vercel.app/api/top-langs/?username=avy9999&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 <p align="left">
