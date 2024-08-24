@@ -1,10 +1,10 @@
 
 ## 🚀 About Me
-🎓 I am Aryan Gupta, currently pursuing B.Tech in Computer Science (Artificial Intelligence and Machine Learning)
+🎓 I am Aryan Gupta, currently pursuing B.Tech in Computer Science
 
 🔧 I am a professional **Discord Bot Developer**
 ## 🏅 Achievements
-🏆 Ex-Developer of **PokeBest Bot** having more Than **30000+** Users and more than **10000000+** commands used
+🏆 Developer of **PokeBest Bot** having more than **30000** users and more than **10000000** commands used
 
 ## 🛠️ Skills
 
