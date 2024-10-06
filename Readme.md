@@ -4,7 +4,7 @@
 
 🔧 I am a professional **Discord Bot Developer**
 ## 🏅 Achievements
-🏆 Developer of **PokeBest Bot** having more than **30000** users and more than **10000000** commands used
+🏆 Developer of **PokeBest Bot** having more than **37000** users and more than **10000000** commands used
 
 ## 🛠️ Skills
 
