@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-🎓 I am Aryan Gupta, currently pursuing B. Tech in Computer Science<br>🔧 I am a professional Discord Bot Developer<br>🌱 I’m currently learning C++, Python<br>⚡I like to play Chess
+🎓 I am Aryan Gupta, currently pursuing B. Tech in Computer Science<br>🌱 I’m currently learning C++, Python
 
 ## 🏅 Achievements
 🏆 Developer of **PokeBest Bot** having more than **37000** users and more than **10000000** commands used
